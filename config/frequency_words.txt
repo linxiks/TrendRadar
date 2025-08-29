@@ -25,6 +25,18 @@ DJI
 微软
 Microsoft
 
+Linux
+Unix
+操作系统
+
+Java
+Go
+Golang
+Python
+Rust
+开发语言
+开发框架
+
 英伟达
 NVIDIA
 黄仁勋
